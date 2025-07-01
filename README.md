@@ -7,7 +7,7 @@ Outil simple en Python pour traduire des textes codés en runes anglo-saxonnes v
 ## Fonctionnalités
 
 - **Traduction runes → latin** : conversion d’un texte runique utilisant un alphabet anglo-saxon simplifié en lettres latines.
-- **Calcul de la valeur gématrique** : somme des valeurs numériques associées aux lettres A-Z (A=1, B=2, ..., Z=26).
+- **Calcul de la valeur gématrique** : somme des valeurs numériques associées aux lettres A-Z (A=1, B=2, ..., Z=26)
 
 ---
 
