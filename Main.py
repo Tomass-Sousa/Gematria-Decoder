@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*
+# -*- coding: utf-8 -*-
 
 # Table runes simples vers lettres latines (exemple)
 RUNE_TO_LATIN = {
