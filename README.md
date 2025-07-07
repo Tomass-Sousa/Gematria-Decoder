@@ -1,6 +1,6 @@
 # Gematria Decoder
 
-Outil simple en Python pour traduire des textes codés en runes anglo-saxonnes vers l'alphabet latin et calculer la valeur gématrique (gematria) de textes latins
+Outil simple en Python pour traduire des textes codés en runes anglo-saxonnes vers l'alphabet latin et calculer la valeur gématrique (gematria) de textes latins.
 
 ---
 
