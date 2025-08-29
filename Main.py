@@ -1,4 +1,6 @@
+# -*- coding: utf-8 -*-
 
+# Table runes simples vers lettres latines (exemple)
 RUNE_TO_LATIN = {
     'ᚠ': 'f', 'ᚢ': 'u', 'ᚦ': 'th', 'ᚨ': 'a', 'ᚱ': 'r',
     'ᚲ': 'k', 'ᚷ': 'g', 'ᚹ': 'w', 'ᚺ': 'h', 'ᚾ': 'n',
